@@ -1,0 +1,26 @@
+baseURL = 'https://fantac.at/'
+languageCode = 'en-us'
+title = "FantasqueX's Blog"
+theme = "PaperMod"
+math = true
+
+[params]
+  author = 'FantasqueX'
+  description = "FantasqueX's Blog"
+  math = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+
+[taxonomies]
+  category = 'categories'
+
+[[menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 20
+
