@@ -2,7 +2,7 @@
 title: "Electron Is Not Something Totally Useless"
 date: 2022-07-21T00:37:09+08:00
 summary: I love Electron in some aspects
-categories: ["Random thoughts"]
+categories: ["Random thoughts", "Frontend"]
 ---
 The story comes from a small project which aimes to automatically take screenshots of command output of ssh given a relatively big json recording lots ssh config. The challenge is that it's not trivial to programmaticaly control input of ssh and automatically take screenshots of specific window.
 
