@@ -1,7 +1,8 @@
 ---
 title: "How to Parser Input in Electron Application"
 date: 2022-07-26T18:00:24+08:00
-draft: true
+summary: "static analysis of JavaScript"
+categories: ["static analysis"]
 ---
 Some days ago, I got a task to get positions of potential input such as request URL and read files in Electron applications.
 
