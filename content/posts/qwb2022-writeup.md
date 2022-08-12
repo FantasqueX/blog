@@ -46,7 +46,7 @@ How to decode the pcap is shown in the Pyvmess library. Client made a HTTP reque
 
 It's strange. Upload the doc file to [VirusTotal](https://www.virustotal.com/gui/home/upload) and we can get the api address. So the password of zip file is known.
 
-![alt Gob](/qwb2022-writeup/gob.png)
+![alt Gob](/qwb2022-writeup/gob.webp)
 
 We might guess this is a [gob file](https://go.dev/blog/gob). It's an encoding to transmit a data structure across a network or store to a file but can only be used in golang. If we know the type definition of the data structure, we can easily decode it. Let's guess. They are some binary files with a string file name. The data structure might be `map[string]([]byte)`.
 ```go
