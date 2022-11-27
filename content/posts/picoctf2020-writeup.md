@@ -1,11 +1,11 @@
 ---
-title: "Picoctf2022 Writeup"
+title: "Picoctf2020 Writeup"
 date: 2022-11-26T20:50:21+08:00
 summary: Guessing Game
 categories: ["writeup"]
 ---
 
-# PicoCTF 2022 Writeup
+# PicoCTF 2020 Writeup
 
 ## Guessing Game 1
 
