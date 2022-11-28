@@ -25,7 +25,12 @@ url = "archives/"
 weight = 15
 
 [[menu.main]]
+name = "Friends"
+url = "friends/"
+weight = 20
+
+[[menu.main]]
 name = "About"
 url = "about/"
-weight = 20
+weight = 25
 
