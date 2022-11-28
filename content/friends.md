@@ -12,4 +12,4 @@ Some of my friends are listed below. They bring a lot of joy to my life.
 - [twd2](https://twd2.me/)
 - [Lancern](https://lancern.xyz/)
 - [xuanxuan](https://xuanxuanblingbling.github.io/)
-- [Moody Hunter](https://mooody.me/)
+- [Moody Liu](https://mooody.me/)
