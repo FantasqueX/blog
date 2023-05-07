@@ -13,3 +13,4 @@ Some of my friends are listed below. They bring a lot of joy to my life.
 - [Lancern](https://lancern.xyz/)
 - [xuanxuan](https://xuanxuanblingbling.github.io/)
 - [Moody Liu](https://mooody.me/)
+- [Cubercsl](https://cubercsl.site/)
