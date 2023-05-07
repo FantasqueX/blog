@@ -2,4 +2,4 @@
 
 My personal blog
 
-https://fantac.at/
+https://fantasquex.me/
